@@ -1,0 +1,12 @@
+header {
+    background-color: violet;
+    color: white;
+    text-align: center;
+}
+main {
+    background-color: lightgrey;
+    
+}
+body{
+    background-image: url('record.png');
+}
