@@ -5,8 +5,11 @@ header {
 }
 main {
     background-color: lightgrey;
+    padding: 1em;
     
 }
-body{
+body {
     background-image: url('record.png');
+    background-repeat: space;
+    margin: 0;
 }
